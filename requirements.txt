@@ -1,0 +1,18 @@
+# Backend requirements for FixMate AI Service
+fastapi==0.115.5
+uvicorn==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.3
+
+# ML & AI Libraries
+sentence-transformers==3.3.1
+scikit-learn==1.6.0
+pandas==2.2.3
+numpy==2.2.1
+geopy==2.4.1
+
+# OpenAI for proxy endpoint (NEW)
+openai==1.57.4
+
+# Environment variables loader (REQUIRED)
+python-dotenv==1.0.1
