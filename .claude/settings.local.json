@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/FixMate_App/Anjana Finalll Fianlll/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
